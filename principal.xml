@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 
 <item>
+<title>[COLOR yellow][/COLOR][COLOR skyblue] Videoteca [/COLOR][COLOR lime] alfabética[/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/VIDEOTECACAR/master/BASEVIDEOTEC.xml</externallink>
+</item>
+
+<item>
 <title>[COLOR yellow][/COLOR][COLOR skyblue] Cine [/COLOR][COLOR lime] clásico[/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail></thumbnail>
@@ -41,12 +49,53 @@
 </item>
 
 <item>
+<title>[COLOR yellow]Series,[/COLOR][COLOR skyblue] películas, y más [/COLOR][COLOR lime] (add-on Robin Hood)[/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/RobinHood/master/BaseRobin.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR yellow][/COLOR][COLOR skyblue] [/COLOR][COLOR lime] (add-on Diablo)[/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://raw.githubusercontent.com/lokiyotnt69/Diablo/master/index.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR yellow]Series,[/COLOR][COLOR skyblue] películas, y más [/COLOR][COLOR lime] (add-on Joker)[/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<externallink>https://github.com/lokiyotnt69/JOKER/blob/master/BASE.xml</externallink>
+</item>
+
+<item>
 <title>[COLOR yellow] Zona [/COLOR][COLOR skyblue] infantil [/COLOR][COLOR lime] (add-on Kira)[/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>http://cp.angelleon.colmenarviejo.educa.madrid.org/Quienes_somos_archivos/Alumnado_archivos/Sexto_Primaria_archivos/Primera_Promocion_2002_2011_archivos/Imagenes/imagen_infantil.png</thumbnail>
 <fanart>http://wallpaperswide.com/download/beautiful_illustration-wallpaper-1280x720.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/Kira5.0/master/IndexKira5.xml</externallink>
 </item>
+
+<item> 
+<title>[COLOR  red] [/COLOR][COLOR blue]Documentales [/COLOR][COLOR red] (add-on Planeta)[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://mundokodi.com/wp-content/uploads/2017/06/9.png?x86522</thumbnail>
+<fanart>http://mundokodi.com/wp-content/uploads/2017/06/9.png?x86522</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Documentales/master/index.xml</externallink>	
+</item> 
+
+<item> 
+<title>[COLOR  red] [/COLOR][COLOR blue]Karaoke[/COLOR][COLOR red](add-on Karaoke)[/COLOR]</title>
+<link>http://Ignoreme</link>
+<thumbnail>http://www.spiritlakebooks.com/uploads/6/0/2/7/6027919/6081687_orig.jpg</thumbnail>
+<fanart>http://www.spiritlakebooks.com/uploads/6/0/2/7/6027919/6081687_orig.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/index.xml</externallink>	
+</item> 
+
 
 
 <!-----
