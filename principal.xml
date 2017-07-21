@@ -3,72 +3,72 @@
 <item>
 <title>[COLOR yellow][/COLOR][COLOR skyblue] Videoteca [/COLOR][COLOR lime] alfabética[/COLOR]</title>
 <link>http://ignorame</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Video_shop.jpg/220px-Video_shop.jpg</thumbnail>
+<fanart>http://cafespont.com/wp-content/uploads/2016/11/CAFE.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/VIDEOTECACAR/master/BASEVIDEOTEC.xml</externallink>
 </item>
 
 <item>
 <title>[COLOR yellow][/COLOR][COLOR skyblue] Cine [/COLOR][COLOR lime] clásico[/COLOR]</title>
 <link>http://ignorame</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://iqglobal.intel.com/es-es/wp-content/uploads/sites/24/2016/04/Lamarr-iQ-Cover-proof-2-977x653-uk.jpg</thumbnail>
+<fanart>http://cafespont.com/wp-content/uploads/2016/11/CAFE.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/cafepepe/principal/master/cclasico.xml</externallink>
 </item>
  
 <item>
 <title>[COLOR yellow][/COLOR][COLOR skyblue] Series [/COLOR][COLOR lime] clásicas [/COLOR]</title>
 <link>http://ignorame</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://k44.kn3.net/taringa/1/5/9/8/5/0/9/renegad0/A72.jpg</thumbnail>
+<fanart>http://cafespont.com/wp-content/uploads/2016/11/CAFE.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/cafepepe/principal/master/sclasica.xml</externallink>
 </item>
 
 <item>
 <title>[COLOR yellow][/COLOR][COLOR skyblue] Películas [/COLOR][COLOR lime] infantiles [/COLOR]</title>
 <link>http://ignorame</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://pm1.narvii.com/6477/0b10047ee8a10bddc6e6da6858513c7e29db6297_hq.jpg</thumbnail>
+<fanart>http://cafespont.com/wp-content/uploads/2016/11/CAFE.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/cafepepe/principal/master/pinfantil.xml</externallink>
 </item>
 
 <item>
 <title>[COLOR yellow][/COLOR][COLOR skyblue] Series [/COLOR][COLOR lime] infantiles [/COLOR]</title>
 <link>http://ignorame</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.ytimg.com/vi/Yy7M-kl7Zz8/maxresdefault.jpg</thumbnail>
+<fanart>http://cafespont.com/wp-content/uploads/2016/11/CAFE.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/JOKER/master/SERIESCRIOS.xml</externallink>
 </item>
 
 <item>
 <title>[COLOR yellow][/COLOR][COLOR skyblue] Series [/COLOR][COLOR lime] infantiles , 2ª parte[/COLOR]</title>
 <link>http://ignorame</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://i.ytimg.com/vi/Yy7M-kl7Zz8/maxresdefault.jpg</thumbnail>
+<fanart>http://cafespont.com/wp-content/uploads/2016/11/CAFE.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/JOKER/master/SERIESCRIOS4.xml</externallink>
 </item>
 
 <item>
 <title>[COLOR yellow]Series,[/COLOR][COLOR skyblue] películas, y más [/COLOR][COLOR lime] (add-on Robin Hood)[/COLOR]</title>
 <link>http://ignorame</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>http://www.bpla.com/wp-content/uploads/2016/05/robin_hood_chibi_by_unicorn_knight-d7toyam.jpg</thumbnail>
+<fanart>http://cafespont.com/wp-content/uploads/2016/11/CAFE.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/RobinHood/master/BaseRobin.xml</externallink>
 </item>
 
 <item>
-<title>[COLOR yellow][/COLOR][COLOR skyblue] [/COLOR][COLOR lime] (add-on Diablo)[/COLOR]</title>
+<title>[COLOR yellow]TV, [/COLOR][COLOR skyblue]estrenos, y más [/COLOR][COLOR lime] (add-on Diablo)[/COLOR]</title>
 <link>http://ignorame</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://st.depositphotos.com/1173077/3644/i/950/depositphotos_36448729-stock-photo-red-devil-cartoon.jpg</thumbnail>
+<fanart>http://cafespont.com/wp-content/uploads/2016/11/CAFE.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/Diablo/master/index.xml</externallink>
 </item>
 
 <item>
 <title>[COLOR yellow]Series,[/COLOR][COLOR skyblue] películas, y más [/COLOR][COLOR lime] (add-on Joker)[/COLOR]</title>
 <link>http://ignorame</link>
-<thumbnail></thumbnail>
-<fanart></fanart>
+<thumbnail>https://s-media-cache-ak0.pinimg.com/736x/69/a0/f4/69a0f4a77362097de286437b8aaa45fa--harley-quinnn-joker-and-harley.jpg</thumbnail>
+<fanart>http://cafespont.com/wp-content/uploads/2016/11/CAFE.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/lokiyotnt69/JOKER/master/BASE.xml</externallink>
 </item>
 
@@ -84,15 +84,15 @@
 <title>[COLOR  red] [/COLOR][COLOR blue]Documentales [/COLOR][COLOR red] (add-on Planeta)[/COLOR]</title>
 <link>http://Ignoreme</link>
 <thumbnail>http://mundokodi.com/wp-content/uploads/2017/06/9.png?x86522</thumbnail>
-<fanart>http://mundokodi.com/wp-content/uploads/2017/06/9.png?x86522</fanart>
+<fanart>http://cafespont.com/wp-content/uploads/2016/11/CAFE.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/boni1974/Documentales/master/index.xml</externallink>	
 </item> 
 
 <item> 
 <title>[COLOR  red] [/COLOR][COLOR blue]Karaoke[/COLOR][COLOR red](add-on Karaoke)[/COLOR]</title>
 <link>http://Ignoreme</link>
-<thumbnail>http://www.spiritlakebooks.com/uploads/6/0/2/7/6027919/6081687_orig.jpg</thumbnail>
-<fanart>http://www.spiritlakebooks.com/uploads/6/0/2/7/6027919/6081687_orig.jpg</fanart>
+<thumbnail>https://us.123rf.com/450wm/zzooby/zzooby1509/zzooby150900314/45481877-tipogr-fico-cartel-fiesta-de-karaoke-grunge-retro-ilustraci-n-del-vector.jpg</thumbnail>
+<fanart>http://cafespont.com/wp-content/uploads/2016/11/CAFE.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/boni1974/Karaoke/master/index.xml</externallink>	
 </item> 
 
