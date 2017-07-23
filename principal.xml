@@ -74,11 +74,29 @@
 
 <item> 
 <title>[COLOR  yellow]El Rincón [/COLOR][COLOR skyblue]de Lolo[/COLOR][COLOR lime](ya no se ni lo que hay - pruebas)[/COLOR]</title>
-<link>http://Ignoreme</link>
+<link>http://ignorame</link>
 <thumbnail></thumbnail>
 <fanart></fanart>
-<externallink>https://www.dropbox.com/s/p9pvjg8r7bb4kyc/MenuIntro.xml</externallink>
+<externallink>https://www.dropbox.com/s/p9pvjg8r7bb4kyc/MenuIntro.xml?dl=1</externallink>
 </item> 
+
+<item>
+	<title>[COLOR white]INGRESAR A[/COLOR][B] [COLOR red]E L   R I N C O N  [COLOR yellow] D E L [/COLOR]  L O L O[/COLOR][/B] [COLOR white] ADDON[/COLOR]</title>
+	<link>http://ignorame</link>
+	<thumbnail>https://www.dropbox.com/s/1jpt71qgtjk54c5/icon.png?dl=1</thumbnail>
+	<fanart>https://www.dropbox.com/s/dp2sdbbwk7dzgwj/fanart.jpg?dl=1</fanart>
+	<externallink>https://www.dropbox.com/s/0du0z9camxqttmu/Baselolo.xml?dl=1</externallink>
+	</item>
+	
+
+<item>
+	<title>[COLOR white]INGRESAR A[/COLOR][B] [COLOR orange]DJL IPTV [/COLOR][B][COLOR white]ADDON[/COLOR] [/B]</title>
+	<thumbnail>http://i.imgur.com/xFd7eOc.jpg</thumbnail>
+	<fanart>http://i.imgur.com/xFd7eOc.jpg</fanart>
+	<link>http://ignoreme</link>
+	<externallink>http://bit.ly/DJLIPTVP</externallink>
+</item>
+	
 
 <item>
 <title>[COLOR yellow] Zona [/COLOR][COLOR skyblue] infantil [/COLOR][COLOR lime] (add-on Kira)[/COLOR]</title>
