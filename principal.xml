@@ -49,14 +49,6 @@
 </item>
 
 <item>
-<title>[COLOR white]INGRESAR A[/COLOR][B] [COLOR red]E L   R I N C O N  [COLOR yellow] D E L [/COLOR]  L O L O[/COLOR][/B] [COLOR white] ADDON[/COLOR]</title>
-<link>http://ignorame</link>
-<thumbnail>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/icon.png?raw=true</thumbnail>
-<fanart>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/fanart.jpg?raw=true</fanart>
-<externallink>https://raw.githubusercontent.com/djliptv/ElRinconDelLolo/master/Menu/Baselolo.xml</externallink>
-</item>
-
-<item>
 <title>[COLOR white]INGRESAR A[/COLOR][B] [COLOR orange]DJL IPTV [/COLOR][B][COLOR white]ADDON[/COLOR] [/B]</title>
 <thumbnail>http://i.imgur.com/xFd7eOc.jpg</thumbnail>
 <fanart>http://i.imgur.com/xFd7eOc.jpg</fanart>
@@ -65,35 +57,11 @@
 </item>
 	
 <item>
-		<title>[B][COLOR white]Otroflix[/COLOR][/B]</title>
+		<title>[B][COLOR white]JHG 4 (TV, estrenos y más)[/COLOR][/B]</title>
 		<link>http://ignorame</link>
 		<thumbnail>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/icon.png?raw=true</thumbnail>
 		<fanart>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/fanart.jpg?raw=true</fanart>
-		<externallink>https://raw.githubusercontent.com/lokiyotnt69/Netflix/master/basenetflix.xml</externallink> <!--- http://bit.ly/RHERDLJHG --->
-</item>
-
-<item>
-		<title>[B][COLOR white]DIABLO FIVE (TV, estrenos y más)[/COLOR][/B]</title>
-		<link>http://ignorame</link>
-		<thumbnail>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/icon.png?raw=true</thumbnail>
-		<fanart>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/fanart.jpg?raw=true</fanart>
-		<externallink>http://bit.ly/2AXMis3</externallink>
-</item>
-	
-<item>
-		<title>[B][COLOR skyblue]MUNDO DRAGON BALL - BY POLO Y DANI[/COLOR][/B]</title>
-		<link>http://ignorame</link>
-		<thumbnail>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/DragonBallMundoThumnail.jpg?raw=true</thumbnail>
-		<fanart>https://github.com/djliptv/ElRinconDelLolo/blob/master/Pics/DragonBallMundoFanart.jpg?raw=true</fanart>
-		<externallink>https://raw.githubusercontent.com/djliptv/DragonBallAddon/master/Base.xml</externallink><!--- https://raw.githubusercontent.com/djliptv/ElRinconDelLolo/master/Menu/Anime_Comics/MundoDragonBall.xml --->
-</item>
-	
-<item>
-<title>[COLOR yellow] Zona [/COLOR][COLOR skyblue] infantil [/COLOR][COLOR lime] (add-on Kira)[/COLOR]</title>
-<link>http://ignorame</link>
-<thumbnail>http://cp.angelleon.colmenarviejo.educa.madrid.org/Quienes_somos_archivos/Alumnado_archivos/Sexto_Primaria_archivos/Primera_Promocion_2002_2011_archivos/Imagenes/imagen_infantil.png</thumbnail>
-<fanart>http://wallpaperswide.com/download/beautiful_illustration-wallpaper-1280x720.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/Kira5.0/master/IndexKira5.xml</externallink>
+		<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHGMASTER4/master/BASE4.xml</externallink>
 </item>
 
 <item>
@@ -110,14 +78,6 @@
 <thumbnail>http://mundokodi.com/wp-content/uploads/2017/06/9.png?x86522</thumbnail>
 <fanart>http://cafespont.com/wp-content/uploads/2016/11/CAFE.jpg</fanart>
 <externallink>https://raw.githubusercontent.com/boni1974/Documentales/master/index.xml</externallink>	
-</item> 
-
-<item> 
-<title>[COLOR  red] [/COLOR][COLOR blue]Música, karaoke y más[/COLOR][COLOR red](add-on Karaoke)[/COLOR]</title>
-<link>http://Ignoreme</link>
-<thumbnail>https://us.123rf.com/450wm/zzooby/zzooby1509/zzooby150900314/45481877-tipogr-fico-cartel-fiesta-de-karaoke-grunge-retro-ilustraci-n-del-vector.jpg</thumbnail>
-<fanart>http://cafespont.com/wp-content/uploads/2016/11/CAFE.jpg</fanart>
-<externallink>https://pastebin.com/raw/X2HzY2Jj</externallink>	
 </item> 
 
 <!-----
