@@ -151,7 +151,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR yellow]TDT[/COLOR][COLOR skyblue]  [/COLOR][COLOR lime] (add-on Robin Hood)[/COLOR]</title>
+<title>Canales de TV [COLOR yellow]TDT[/COLOR][COLOR skyblue]  [/COLOR][COLOR lime] (add-on Robin Hood)[/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>http://www.bpla.com/wp-content/uploads/2016/05/robin_hood_chibi_by_unicorn_knight-d7toyam.jpg</thumbnail>
 <fanart>http://cafespont.com/wp-content/uploads/2016/11/CAFE.jpg</fanart>
@@ -159,35 +159,19 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR yellow]Cine, [/COLOR][COLOR skyblue]series, e infantil [/COLOR][COLOR lime] (add-on Darknight)[/COLOR]</title>
-<link>http://ignorame</link>
-<thumbnail>https://st.depositphotos.com/1173077/3644/i/950/depositphotos_36448729-stock-photo-red-devil-cartoon.jpg</thumbnail>
-<fanart>http://cafespont.com/wp-content/uploads/2016/11/CAFE.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/lokiyotnt69/DARKNIGHT66/master/basedarki.xml</externallink>
-</item>
-
-<item>
-<title>[COLOR white]INGRESAR A[/COLOR][B] [COLOR orange]DJL IPTV [/COLOR][B][COLOR white]ADDON[/COLOR] [/B]</title>
+<title>[COLOR white][/COLOR][B] [COLOR orange]DJL IPTV [/COLOR][B][COLOR white]ADDON[/COLOR] [/B]</title>
 <thumbnail>http://i.imgur.com/xFd7eOc.jpg</thumbnail>
 <fanart>http://i.imgur.com/xFd7eOc.jpg</fanart>
 <link>http://ignoreme</link>
 <externallink>https://www.dropbox.com/s/ks7lk4h911dxfwk/INTRO.xml?dl=1</externallink>
 </item>
-	
-<item>
-		<title>[B][COLOR white]JHG 4 (TV, estrenos y más)[/COLOR][/B]</title>
-		<link>http://ignorame</link>
-		<thumbnail></thumbnail>
-		<fanart></fanart>
-		<externallink>https://raw.githubusercontent.com/lokiyotnt69/JHGMASTER4/master/BASE4.xml</externallink>
-</item>
 
 <item>
-<title>[COLOR yellow] Más [/COLOR][COLOR skyblue] infantil [/COLOR][COLOR lime] (cantajuegos, canciones, etc)[/COLOR]</title>
+<title>[COLOR yellow]Zona[/COLOR][COLOR skyblue] infantil [/COLOR][COLOR lime][/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>http://cp.angelleon.colmenarviejo.educa.madrid.org/Quienes_somos_archivos/Alumnado_archivos/Sexto_Primaria_archivos/Primera_Promocion_2002_2011_archivos/Imagenes/imagen_infantil.png</thumbnail>
 <fanart>http://wallpaperswide.com/download/beautiful_illustration-wallpaper-1280x720.jpg</fanart>
-<externallink>https://pastebin.com/raw/hbLUNSXM</externallink>
+<externallink>https://raw.githubusercontent.com/cafepepe/principal/master/pinfantil.xml</externallink>
 </item>
 
 <item> 
