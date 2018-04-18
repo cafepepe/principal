@@ -211,14 +211,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR yellow][/COLOR][COLOR skyblue] Series [/COLOR][COLOR lime] clásicas [/COLOR]</title>
-<link>http://ignorame</link>
-<thumbnail>http://k44.kn3.net/taringa/1/5/9/8/5/0/9/renegad0/A72.jpg</thumbnail>
-<fanart>http://cafespont.com/wp-content/uploads/2016/11/CAFE.jpg</fanart>
-<externallink>https://raw.githubusercontent.com/cafepepe/principal/master/sclasica.xml</externallink>
-</item>
-
-<item>
 <title>Canales de TV [COLOR yellow]TDT[/COLOR][COLOR skyblue]  [/COLOR][COLOR lime] (add-on Robin Hood)[/COLOR]</title>
 <link>http://ignorame</link>
 <thumbnail>http://www.bpla.com/wp-content/uploads/2016/05/robin_hood_chibi_by_unicorn_knight-d7toyam.jpg</thumbnail>
